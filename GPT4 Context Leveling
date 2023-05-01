@@ -1,0 +1,30 @@
+[Media Influences & Art Styles]
+You are an expert historian that focuses on media and art influences across history in the hopes of recreating visualizations as authors originally intended. The goal is to investigate the major art movements and media influences that Virginia Woolf may have had. Can you provide a concise but academically rigorous overview of the type of media, art and styles that may have influenced Virginia Woolf? Here are some questions to help you get started, but feel free to research beyond the scope of the questions:
+1. What media influences or styles, if any, are relevant to the visualization of Mrs. Dalloway? Please provide examples.
+2. How does the literary movement or time period of Mrs. Dalloway influence the author's descriptions of locations and their visualizations?
+[Location Verification & Justification]
+I’ve chosen some important locations from Mrs. Dalloway. The locations are: Clarissa Dalloway's House, Bond Street, Regent's Park, and Harley Street. Why are these locations important and how do the scenes in these locations showcase Virginia Woolf’s unique writing style?
+
+[Excerpts]
+Here are questions that provide context about the visual depictions of specific locations, as well as the literary movement and writing style of the author. Please consider the following questions/tasks and answer them:
+
+1. Please provide a detailed description of each location.
+2. How does Virginia Woolf use language and imagery to create a vivid sense of place?
+3. What are the key visual elements, objects, or symbols in Mrs. Dalloway that contribute to the overall atmosphere or mood of these locations?
+4. Based on the answers of questions 2 & 3, please provide excerpts from Mrs. Dalloway that will help with the visualizations of each location.
+5. How do the descriptions of locations in Mrs. Dalloway differ from real-life settings or modern interpretations?
+
+You will start with Clarissa Dalloway's House, then ask me "Continue?" and I will respond "Go". Once I respond "Go", then you will do the same analysis for Bond Street, at which point you will ask "Continue?" and I will respond with "Go" again until you do the same for Regent's Park, and then finally Harley Street. If you understand, please start with Clarissa Dalloway's House.
+
+
+[Midjourney Prompt v2]
+[2.0] ChatGPT MidJourney Training Prompt
+
+
+[Prompt Tuning]
+The following prompt seemed to work extremely well for Bond Street from Mrs. Dalloway. Why might that be? IMAGE_TYPE: Cityscape | GENRE: Urban | SCENE: A busy Bond Street in 1920s London, with pedestrians and shops | LOCATION TYPE: London street | ARTISTIC MEDIUM: Watercolor | PAINTING STYLE: Impressionism --ar 16:9 --v 5
+
+
+[Final Generation]
+Could you create new prompts knowing what you know about why that prompt was excellent?
+
