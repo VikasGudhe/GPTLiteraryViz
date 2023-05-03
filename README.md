@@ -1,4 +1,4 @@
-# A Literary Spark: Using GPT-4 and Midjourney to Visualize Literature
+# Igniting Imagination: GPT-4 and Midjourney's Venture into Literary Visualization
 
 This repository contains the source code, data, and resources for the project "A Literary Spark: Using GPT-4 and Midjourney to Visualize Literature." The goal of this project is to explore the potential of state-of-the-art language and image synthesis models like GPT-4 in interpreting and visualizing literary works as their authors may have pictured them.
 
