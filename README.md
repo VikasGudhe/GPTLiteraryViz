@@ -3,6 +3,7 @@
 This repository contains the source code, data, and resources for the project "A Literary Spark: Using GPT-4 and Midjourney to Visualize Literature." The goal of this project is to explore the potential of state-of-the-art language and image synthesis models like GPT-4 in interpreting and visualizing literary works as their authors may have pictured them.
 
 ![Igniting Imagination](https://user-images.githubusercontent.com/18102221/236008685-3314193e-3587-43fb-8d34-690906957bbd.jpg)
+To see the full resolution PDF with readable text, click [here](https://digital.kenyon.edu/dh_iphs_ss/)
 
 
 ## Table of Contents
