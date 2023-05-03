@@ -31,7 +31,7 @@ You will start with [Location 1], then ask me "Continue?" and I will respond "Go
 
 The following prompt seemed to work extremely well for [Location X] from [Book Title]. Why might that be? 
 
-`IMAGE_TYPE: Cityscape | GENRE: Urban | SCENE: A busy [Location 2] in 1920s London, with pedestrians and shops | LOCATION TYPE: London street | ARTISTIC MEDIUM: Watercolor | PAINTING STYLE: Impressionism --ar 16:9 --v 5`
+`IMAGE_TYPE: Cityscape | GENRE: Urban | SCENE: A busy [Location X] in 1920s London, with pedestrians and shops | LOCATION TYPE: London street | ARTISTIC MEDIUM: Watercolor | PAINTING STYLE: Impressionism --ar 16:9 --v 5`
 
 ## Final Alterations/Testing
 
