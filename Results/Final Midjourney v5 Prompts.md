@@ -1,4 +1,4 @@
-Gulliver's Travels (Jonathan Swift) 
+# Gulliver's Travels (Jonathan Swift) 
 **Lilliput**
 IMAGE_ TYPE: Illustration | GENRE: Satire | EMOTION: Humorous | SCENE: A tiny island landscape filled with miniature buildings, ships, and animals, surrounded by vast ocean | LOCATION TYPE: Tiny island | ARTISTIC MEDIUM: Pen and ink drawing | PAINTING STYLE: 18th - century satire | TAGS: tiny world, miniature architecture, humor, satire, island, small buildings --ar 16:9 --v 5.1
 **Brobdingnag** 
