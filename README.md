@@ -32,7 +32,7 @@ In this project, the limitations observed were more on Midjourney's side than GP
 **Midjourney v5.1 was released on the final day this project was due. Using the same prompts, 5.1’s images seemed more technically impressive but were not necessarily always better. This may indicate the strength of the Midjourney “Teaching” Prompt, as the newest prompt version seemed to increase image generation quality substantially more than the upgrade from v5 to v5.1. Give more time, this showcases an example of how it's possible to compare different models and versions in a more nuanced manner. Many of the limitations that v5 seemed to have still prevail in v5.1, thus I did not feel the need to update the images. 
 
 ## Project Structure
-- `Generated Images/`: Folder containing the generated images.
+- `Results/`: Folder containing the generated images.
 - `Methodology.md`: Step-by-step guide on the project's methodology.
 - `Requirements.txt`: List of required packages to run the project.
 
