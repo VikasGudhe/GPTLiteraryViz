@@ -1,6 +1,6 @@
 # Igniting Imagination: GPT-4 and Midjourney's Venture into Literary Visualization
 
-This repository contains the prompts, and resources for the project "Igniting Imagination: GPT-4 and Midjourney's Venture into Literary Visualization." The goal of this project is to explore the potential of state-of-the-art language and image synthesis models like GPT-4 in interpreting and visualizing literary works as their authors may have pictured them. Critically, this lead to the development of a one-shot prompt that "teaches" GPT-4 to effectively generate and modify prompts for Midjourney v5 and v5.1. This prompt could serve as a framework to test the capabilities of text-to- image models. By integrating this innovative prompt, it’s possible to explore the potential for combining GPT-4's capabilities with existing image synthesis models like Midjourney to create more accurate and detailed visualizations.
+This repository contains the prompts, and resources for the project "Igniting Imagination: GPT-4 and Midjourney's Venture into Literary Visualization." The goal of this project is to explore the potential of state-of-the-art language and image synthesis models like GPT-4 in interpreting and visualizing literary works as their authors may have pictured them. Critically, this lead to the development of a one-shot prompt that "teaches" GPT-4 to effectively generate and modify prompts for Midjourney v5 and v5.1. This prompt could serve as a framework to test the capabilities of text-to-image models. By integrating this innovative prompt, it’s possible to explore the potential for combining GPT-4's capabilities with existing image synthesis models like Midjourney to create more accurate and detailed visualizations.
 
 
 To see the full resolution PDF with readable text, please click [here](https://digital.kenyon.edu/dh_iphs_ss/)
@@ -33,7 +33,7 @@ In this project, the limitations observed were more on Midjourney's side than GP
 **Midjourney v5.1 was released on the final day this project was due. Using the same prompts, 5.1’s images seemed more technically impressive but were not necessarily always better. This may indicate the strength of the Midjourney “Teaching” Prompt, as the newest prompt version seemed to increase image generation quality substantially more than the upgrade from v5 to v5.1. Give more time, this showcases an example of how it's possible to compare different models and versions in a more nuanced manner. Many of the limitations that v5 seemed to have still prevail in v5.1, thus I did not feel the need to update the images. 
 
 ## Project Structure
-- `Results/`: Folder containing the generated images.
+- `Results/`: Folder containing the generated images and final Midjourney Prompts.
 - `Methodology.md`: Step-by-step guide on the project's methodology.
 - `Requirements.txt`: List of required packages to run the project.
 
