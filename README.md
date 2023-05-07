@@ -3,7 +3,7 @@
 This repository contains the prompts, and resources for the project "Igniting Imagination: GPT-4 and Midjourney's Venture into Literary Visualization." The goal of this project is to explore the potential of state-of-the-art language and image synthesis models like GPT-4 in interpreting and visualizing literary works as their authors may have pictured them. Critically, this lead to the development of a one-shot prompt that "teaches" GPT-4 to effectively generate and modify prompts for Midjourney v5 and v5.1. This prompt could serve as a framework to test the capabilities of text-to-image models. By integrating this innovative prompt, it’s possible to explore the potential for combining GPT-4's capabilities with existing image synthesis models like Midjourney to create more accurate and detailed visualizations.
 
 
-To see the full resolution PDF with readable text, please click [here](https://digital.kenyon.edu/dh_iphs_ss/)
+To see the full resolution PDF with readable text, please click [here](https://digital.kenyon.edu/dh_iphs_ss/) As of now, the project has not been published under Kenyon's Digital Scholarship, but it will be on the same link in the following weeks.
 ![Igniting Imagination](https://user-images.githubusercontent.com/18102221/236008685-3314193e-3587-43fb-8d34-690906957bbd.jpg)
 
 
