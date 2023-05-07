@@ -17,7 +17,7 @@ To see the full resolution PDF with readable text, please click [here](https://d
 - [License](#license)
 
 ## Introduction
-This project was inspired by Microsoft's 400-page paper claiming OpenAI's GPT-4 may have "a spark of artificial general intelligence." The research project aims to explore the capabilities of large-language and image synthesis models like GPT-4 in interpreting and visualizing literary works as their authors may have pictured them.
+This project was inspired by Microsoft's 400-page paper claiming OpenAI's GPT-4 may have "a spark of artificial general intelligence." The research project aims to explore the capabilities of large-language and image synthesis models in interpreting and visualizing literary works as their authors may have pictured them.
 
 ## Methodology
 The methodology involved selecting five classic novels and identifying key locations within each book. Then, GPT-4 was used to generate a series of textual prompts describing these locations. Finally, the prompts were used with the Midjourney v5 image synthesis model to generate visual representations of the literary locations without any references to the authors, book titles or fictional location names.
