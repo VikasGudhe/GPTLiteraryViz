@@ -42,4 +42,4 @@ In this project, the limitations observed were more on Midjourney's side than GP
 - Midjourney v5 (accessible through Discord)
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://mit-license.org/).
